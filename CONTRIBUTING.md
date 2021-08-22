@@ -2,6 +2,10 @@
 
 Your contributions are always welcome!
 
+###email senden
+"bitte sende ein email an ....
+###email senden
+"bitte sende ein email an ....""
 ## Guidelines
 
 * Add one link per Pull Request.
